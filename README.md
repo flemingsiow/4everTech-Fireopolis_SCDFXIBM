@@ -87,7 +87,7 @@ Now you are ready to run the Python Flask Server.
 - [Twilio](https://www.twilio.com) - Communication Service
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 We use [SemVer](https://semver.org) for versioning.
