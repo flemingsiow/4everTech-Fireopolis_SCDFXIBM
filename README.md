@@ -14,7 +14,6 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
   10. [Versioning](#versioning)
   11. [Authors](#authors)
   12. [License](#license)
-  13. [Acknowledgements](#acknowledgements)
   
 ## Short Description
 ### What's the problem?
@@ -43,7 +42,7 @@ Link to our Demo Video: [Fireopolis](https://www.youtube.com/watch?v=0tobKyDcNYI
   5. Users can communicate to the IBM Node-RED circuit through our Front End servers to perform remote tasks. 
   
 ## Long Description
-You can read the long description of our Project here: [longdescription.md]()
+You can read the long description of our Project here: [DESCRIPTION.md](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/DESCRIPTION.md)
   
 ## Project Roadmap
 ![Project Fireopolis Roadmap](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/Project%20Fireopolis%20Roadmap.jpeg "Project Fireopolis Roadmap")
@@ -91,19 +90,13 @@ Now you are ready to run the Python Flask Server.
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
+We use [SemVer](https://semver.org) for versioning.
 
 ## Authors
-- Fleming Siow - Initial work - []
+- Fleming Siow - Initial work - [flemingsiow](https://github.com/flemingsiow)
+- Woo Yan Seun 
+- Ethan Pang
+- Lim Hong Shun
 
 ## License
-This project is licensed under the Apache 2 License - see the LICENSE file for details
-
-## Acknowledgements
-- Based on Billie Thompson's README template.
-
-
-  
-
-
-
-
+This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/LICENSE) file for details
