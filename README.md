@@ -8,12 +8,13 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
   4.  [Long Description](#long-description)
   5.  [Project Roadmap](#project-roadmap)
   6.  [Getting Started](#getting-started)
-  7.  [Live Demo](#live-demo)
-  8.  [Built With](#built-with)
-  9.  [Contributing](#contributing)
-  10. [Versioning](#versioning)
-  11. [Authors](#authors)
-  12. [License](#license)
+  7.  [Running the Test](#running-the-test)
+  8.  [Live Demo](#live-demo)
+  9.  [Built With](#built-with)
+  10.  [Contributing](#contributing)
+  11. [Versioning](#versioning)
+  12. [Authors](#authors)
+  13. [License](#license)
   
 ## Short Description
 ### What's the problem?
@@ -48,7 +49,7 @@ You can read the long description of our Project here: [DESCRIPTION.md](https://
 ![Project Fireopolis Roadmap](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/Project%20Fireopolis%20Roadmap.jpeg "Project Fireopolis Roadmap")
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 1. Visit [Anaconda.com/downloads](https://www.anaconda.com/products/individual)
@@ -74,6 +75,10 @@ Now you are ready to run the Python Flask Server.
 * Debugger PIN: 207-535-095
 * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ```
+
+## Running the Test
+1. You can run the server locally on [localhost:5000] or otherwise try the updated live demo.
+
 ## Live Demo
 [Live Demo](https://www.fireopolis.flemingsiow.com)
 
