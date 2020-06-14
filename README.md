@@ -3,26 +3,31 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
 
 ## Contents
   1.  [Short Description](#short-description)
-  2.  [Demo Video][#demo-video]
-  3.  [The Architecture][#the-architecture]
-  4.  [Long Description][#long-description]
-  5.  [Project Roadmap][#project-roadmap]
-  6.  [Getting Started][#getting-started]
-  7.  [Running the Tests][#running-the-tests]
-  8.  [Live Demo][#live-demo]
-  9.  [Built With][#built-with]
-  10. [Contributing][#contributing]
-  11. [Versioning][#versioning]
-  12. [Authors][#authors]
-  13. [License][#license]
-  14. [Acknowledgments][#acknowledgments]
+  2.  [Demo Video](#demo-video)
+  3.  [The Architecture](#the-architecture)
+  4.  [Long Description](#long-description)
+  5.  [Project Roadmap](#project-roadmap)
+  6.  [Getting Started](#getting-started)
+  7.  [Live Demo](#live-demo)
+  8.  [Built With](#built-with)
+  9.  [Contributing](#contributing)
+  10. [Versioning](#versioning)
+  11. [Authors](#authors)
+  12. [License](#license)
+  13. [Acknowledgements](#acknowledgements)
   
 ## Short Description
 ### What's the problem?
+Based on SCDF statistics on fire accidents, residential fire constitutes 40.8% of the fire accidents in 2019, in which many emergency medical supplies had to be tended to these incidents. Currently, SCDF responders do not have an efficient way to obtain relevant data of the fire incident prior to arriving there and often precious resources are unncessarily wasted in the process. 
+
 ### How can technology help?
+Internet of Things (IoT) Technology has made it possible to obtain and analyse key data automatically and remotely access these data. This useful for faciliating more effective and efficient communication between the respondents and community members in times of a fire outbreak. 
+
 ### The idea
+Project Fireopolis aims to hasten the response to fire emergencies using this IoT technology. It consists of an architecture that collects, and analyses key data to formulate vital information for both the community and responders to take quick action and prevent a fire outbreak if possible. 
 
 ## Demo Video
+Link to our Demo Video: [Fireopolis](https://www.youtube.com/watch?v=0tobKyDcNYI&feature=youtu.be)
 
 ## The Architecture 
 ![Project Fireopolis Architecture](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/Project%20Fireopolis%20Architecture.jpg "Project Fireopolis Architecture")
@@ -38,6 +43,7 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
   5. Users can communicate to the IBM Node-RED circuit through our Front End servers to perform remote tasks. 
   
 ## Long Description
+You can read the long description of our Project here: [longdescription.md]()
   
 ## Project Roadmap
 ![Project Fireopolis Roadmap](https://github.com/flemingsiow/4everTech-Fireopolis_SCDFXIBM/blob/master/Project%20Fireopolis%20Roadmap.jpeg "Project Fireopolis Roadmap")
@@ -83,6 +89,8 @@ Now you are ready to run the Python Flask Server.
 
 ## Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
 
 ## Authors
 - Fleming Siow - Initial work - []
