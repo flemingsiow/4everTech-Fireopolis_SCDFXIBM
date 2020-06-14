@@ -77,7 +77,7 @@ Now you are ready to run the Python Flask Server.
 ```
 
 ## Running the Test
-1. You can run the server locally on [localhost:5000] or otherwise try the updated live demo.
+1. You can run the server locally on [localhost:5000](localhost:5000) or otherwise try the updated live demo.
 
 ## Live Demo
 [Live Demo](https://www.fireopolis.flemingsiow.com)
