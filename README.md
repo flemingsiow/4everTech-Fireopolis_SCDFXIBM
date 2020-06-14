@@ -3,7 +3,7 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
 
 ## Contents
   1)  [Short Description](#short-description)
-  2)  [Demo video][#demo-video]
+  2)  [Demo Video][#demo-video]
   3)  [The Architecture][#the-architecture]
   4)  [Long Description][#long-description]
   5)  [Project Roadmap][#project-roadmap]
@@ -16,3 +16,14 @@ We are a group of students who wishes to tap on IoT automatic and remoteless cap
   12) [Authors][#authors]
   13) [License][#license]
   14) [Acknowledgments][#acknowledgments]
+  
+## Short Description
+### What's the problem?
+### How can technology help?
+### The idea
+
+### Demo Video
+
+### The Architecture 
+![Product Fireopolis Architecture](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Product Fireopolis Architecture")
+
