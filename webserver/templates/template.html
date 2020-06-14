@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+ <head>
+   <meta charset="utf-8">
+   <title>Flask Parent Template</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/template.css') }}">
+
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+
+   
+   <!-- Bootstrap core JavaScript-->
+   <script src="{{url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+   <script src="{{url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+ 
+   <!-- Core plugin JavaScript-->
+   <script src="{{url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+ 
+   <!-- Custom scripts for all pages-->
+   <script src="{{url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
+ 
+   <!-- Page level plugins -->
+   <script src="{{url_for('static', filename='vendor/chart.js/Chart.min.js') }}"></script>
+ 
+   <!-- Page level custom scripts -->
+   <script src="{{url_for('static', filename='js/demo/chart-area-demo.js') }}"></script>
+   <script src="{{url_for('static', filename='js/demo/chart-pie-demo.js') }}"></script>
+ </head>
+ <body>
+    
+    
+    {% block content %}
+    {% endblock %}
+    
+ </body>
+</html>
