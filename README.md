@@ -80,7 +80,7 @@ Now you are ready to run the Python Flask Server.
 1. You can run the server locally on [localhost:5000](http://www.localhost:5000) or otherwise try the updated live demo.
 
 ## Live Demo
-[Live Demo](https://www.fireopolis.flemingsiow.com)
+[Live Demo](https:/fireopolis.flemingsiow.com)
 
 ## Built With
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The MySQL database used
