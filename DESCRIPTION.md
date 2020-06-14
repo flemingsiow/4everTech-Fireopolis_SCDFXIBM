@@ -4,7 +4,7 @@ Project Fireopolis aims to hasten the response to fire emergencies using IoT tec
 and analyses key data to formulate vital information for both the community and responders to take quick action. Clients with devices may
 access our Front End Dashboard server below: 
 
-[Fireopolis Website](https://www.fireopolis.flemingsiow.com)
+[Fireopolis Website](http://fireopolis.flemingsiow.com)
 
 ## Data Collection
 
